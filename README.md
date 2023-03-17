@@ -29,6 +29,9 @@
 <a href="https://www.instagram.com/itsveejain/">
 <img src="https://img.icons8.com/color/1x/instagram-new.png" alt="instagram" />
 </a>
+ <a href="https://www.facebook.com/profile.php?id=100013177326925">
+<img src="https://img.icons8.com/fluency/1x/facebook-new.png" alt="facebook" />
+</a>
 </div>
 </br>
 
