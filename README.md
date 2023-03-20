@@ -1,7 +1,7 @@
 # Hey there :wave:
-<br/><img src="https://readme-typing-svg.herokuapp.com?font=Lobster&size=30&pause=1000&color=6DFF07&width=435&lines=I'm+Vidhi+Jain!;" style="max-width: 100%;">
+<br/><img src="https://readme-typing-svg.herokuapp.com?font=Lobster&size=30&pause=1000&color=d96736&width=435&lines=I'm+Vidhi+Jain!;" style="max-width: 100%;">
 <br/>
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Lobster&pause=1000&color=FFD01E&multiline=true&width=435&lines=I+am+a+passionate+Frontend+Developer+from+India!" alt="Typing SVG" /></a><br/>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Lobster&pause=1000&color=28b7eb&multiline=true&width=435&lines=I+am+a+passionate+Frontend+Developer+from+India!" alt="Typing SVG" /></a><br/>
 <img align="right" width="37%" src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/601014116770475.6068beff4640a.gif" alt="Coding" />
 <br/>
 
