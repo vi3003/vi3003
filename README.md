@@ -1,7 +1,9 @@
 # Hey there :wave:
-<br/><img src="https://readme-typing-svg.herokuapp.com?font=Lobster&size=30&pause=1000&color=d96736&width=435&lines=I'm+Vidhi+Jain!;" style="max-width: 100%;">
-<br/>
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Lobster&pause=1000&color=28b7eb&multiline=true&width=435&lines=I+am+a+passionate+Frontend+Developer+from+India!" alt="Typing SVG" /></a><br/>
+<img height="240px" width="1080px" src="https://wallpaperaccess.com/full/3415069.png" alt="github universe" />
+<br/><img src="https://readme-typing-svg.herokuapp.com?font=Kaushan+Script&size=33&pause=1000&color=d96736&width=435&lines=I'm+Vidhi+Jain!;" style="max-width: 100%;">
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Kaushan+Script&size=21&pause=1000&color=28b7eb&multiline=true&width=435&lines=I+am+a+passionate+Frontend+Developer+from+India!" alt="Typing SVG" /><br/>
+
 <img align="right" width="37%" src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/601014116770475.6068beff4640a.gif" alt="Coding" />
 <br/>
 
@@ -47,11 +49,11 @@
 </br>
 
 ## GitHub Statistics 📈
-<p align="center">
+<p >
  
-   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vi3003&theme=transparent" /><br/><br/>
-   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=vi3003&show_icons=true&locale=en&layout=compact&theme=transparent" /><br/><br/>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=vi3003&show_icons=true&theme=transparent" />
+   <img src="https://github-readme-streak-stats.herokuapp.com/?user=vi3003&theme=transparent" /><br/><br/>
+   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=vi3003&show_icons=true&locale=en&layout=compact&theme=transparent" /><br/><br/>
+  <img src="https://github-readme-stats.vercel.app/api?username=vi3003&show_icons=true&theme=transparent" />
 </p>
 
 
