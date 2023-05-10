@@ -1,6 +1,6 @@
 # Hey there :wave:
 <img height="240px" width="1080px" src="https://wallpaperaccess.com/full/3415069.png" alt="github universe" />
-<br/><img src="https://readme-typing-svg.herokuapp.com?font=Kaushan+Script&size=33&pause=1000&color=d96736&width=435&lines=I'm+Vidhi+Jain!;" style="max-width: 100%;">
+<br/><img src="https://readme-typing-svg.herokuapp.com?font=Kaushan+Script&size=33&pause=1000&center=true&color=d96736&width=435&lines=I'm+Vidhi+Jain!" style="max-width: 100%;">
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Kaushan+Script&size=21&pause=1000&color=28b7eb&multiline=true&width=435&lines=I+am+a+passionate+Frontend+Developer+from+India!" alt="Typing SVG" /><br/>
 
@@ -50,9 +50,9 @@
 
 ## GitHub Statistics 📈
 <p >
- 
-   <img src="https://github-readme-streak-stats.herokuapp.com/?user=vi3003&theme=transparent" /><br/><br/>
-   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=vi3003&show_icons=true&locale=en&layout=compact&theme=transparent" /><br/><br/>
+ <img src="https://komarev.com/ghpvc/?username=vi3003&color=0066FF&style=flat" alt="vidhi" /><br/><br/>
+ <img src="https://github-readme-streak-stats.herokuapp.com/?user=vi3003&theme=transparent" /><br/><br/>
+ <img src="https://github-readme-stats.vercel.app/api/top-langs?username=vi3003&show_icons=true&locale=en&layout=compact&theme=transparent" /><br/><br/>
   <img src="https://github-readme-stats.vercel.app/api?username=vi3003&show_icons=true&theme=transparent" />
 </p>
 
