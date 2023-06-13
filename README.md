@@ -1,5 +1,5 @@
 # Hey there :wave:
-<img height="240px" width="1080px" src="https://wallpaperaccess.com/full/3415069.png" alt="github universe" />
+<img height="240px" width="720px" src="https://cdn.dribbble.com/userupload/4447860/file/original-2183faf30236fdfd1552016c5162cbc2.png?compress=1&resize=752x" alt="github universe" />
 <br/><img src="https://readme-typing-svg.herokuapp.com?font=Kaushan+Script&size=33&pause=1000&center=true&color=d96736&width=435&lines=I'm+Vidhi+Jain!" style="max-width: 100%;">
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Kaushan+Script&size=21&pause=1000&color=28b7eb&multiline=true&width=435&lines=I+am+a+passionate+Frontend+Developer+from+India!" alt="Typing SVG" /><br/>
